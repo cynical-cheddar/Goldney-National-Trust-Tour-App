@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@+id/loadScreen">
+
+    <fragment
+        android:id="@+id/loadScreen"
+        android:name="com.varvet.tourguide.loadScreen"
+        android:label="fragment_load_screen"
+        tools:layout="@layout/fragment_load_screen" />
+    <fragment
+        android:id="@+id/tileList"
+        android:name="com.varvet.tourguide.TileList"
+        android:label="fragment_tile_list"
+        tools:layout="@layout/fragment_tile_list">
+        <action
+            android:id="@+id/action_tileList_to_tileFragment"
+            app:destination="@id/tileFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/tileFragment"
+        android:name="com.varvet.tourguide.TileFragment"
+        android:label="fragment_tile"
+        tools:layout="@layout/fragment_tile">
+        <argument
+            android:name="id"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.varvet.tourguide.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/settings"
+        android:name="com.varvet.tourguide.Settings"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/developerHome"
+        android:name="com.varvet.tourguide.developerHome"
+        android:label="fragment_developer_home"
+        tools:layout="@layout/fragment_developer_home" />
+</navigation>

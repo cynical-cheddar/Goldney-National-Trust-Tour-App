@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Admin Page View Test",
+    "subtitle": "The subtitle for the admin page view test",
+    "description": "The description for the admin page view test",
+    "sections": [
+      {
+        "title": "The Intrepid Adventures of Commodore Mandeville and the Nasty Space Pirates",
+        "description": "This is a thing",
+        "tile_id": 0,
+        "type": "text",
+        "image_name": "",
+        "image_link": "",
+        "id": 66
+      },
+      {
+        "title": "Section 1",
+        "description": "Descirption for section 1",
+        "tile_id": 0,
+        "type": "text",
+        "image_name": "",
+        "image_link": "",
+        "id": 63
+      },
+      {
+        "title": "Section 2",
+        "description": "Section 2 desc",
+        "tile_id": 0,
+        "type": "text",
+        "image_name": "",
+        "image_link": "",
+        "id": 64
+      },
+      {
+        "title": "",
+        "description": "",
+        "tile_id": 0,
+        "type": "image",
+        "image_name": "Screenshot%20from%202020-03-21%2012-26-53.png2020-04-14%2017%3A43%3A47.150015531%20%2B0000%20UTC%20m%3D%2B8.926372412.png",
+        "image_link": "https://goldney-james.s3.amazonaws.com/pictures/Screenshot%20from%202020-03-21%2012-26-53.png2020-04-14%2017%3A43%3A47.150015531%20%2B0000%20UTC%20m%3D%2B8.926372412.png",
+        "id": 65
+      },
+      {
+        "title": "",
+        "description": "",
+        "tile_id": 0,
+        "type": "360",
+        "image_name": "grotto.jpg",
+        "image_link": "https://goldney-james.s3.amazonaws.com/pictures/rect5319-8-7.png2020-04-14%2017%3A44%3A12.449042929%20%2B0000%20UTC%20m%3D%2B34.225399849.png",
+        "id": 67
+      }
+    ],
+    "email": "The email for the admin page view test",
+    "id": 67,
+    "active": 1,
+    "delSecs": null
+  }
+]

@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04fddd11-a6de-4d1b-969c-3253da9e58fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Portfolio A/00_Images/MasterArchitecture.png" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio A/00_Images/MasterArchitecture.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio A/01_Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio A/01_Overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio A/03_OODesign&amp;UML.md" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio A/03_OODesign&amp;UML.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/MainActivity.kt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_29" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/UpdateClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/TourTile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1225">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/MainActivity.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/loadScreen.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/developerHome.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/CopyUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/glpanorama/src/main/java/com/zph/glpanorama/GLPanorama.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="64" column="21" lean-forward="true" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/glpanorama/src/main/java/com/zph/glpanorama/glutils/Ball.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="55" column="31" lean-forward="true" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/glpanorama/src/main/java/com/zph/glpanorama/glutils/IViews.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/glpanorama/src/main/java/com/zph/glpanorama/glutils/OGLUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main</find>
+      <find>checkForInternetConnection</find>
+      <find>populateStorageIfEmpty</find>
+      <find>deleteRecursive</find>
+      <find>forcePopulationFromAssets</find>
+      <find>onCreateDialog</find>
+      <find>BarcodeTracker</find>
+      <find>BarcodeGraphicTrackerCallback</find>
+      <find>onNewItem</find>
+      <find>ConnectionDialogueFailed</find>
+      <find>BarcodeTrackerFactory</find>
+      <find>DownloadTask</find>
+      <find>MyItemRecyclerViewAdapter</find>
+      <find>TourTile</find>
+      <find>Section</find>
+      <find>CopyUtil</find>
+      <find>UpdateClient</find>
+      <find>copyDirectory</find>
+      <find>OGLUtils</find>
+      <find>IViews</find>
+      <find>setContentView</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/varvet/tourguide/barcode/BarcodeCaptureActivity.java" />
+        <option value="$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/TileList.kt" />
+        <option value="$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/TourTile.java" />
+        <option value="$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/barcode/BarcodeCaptureActivity.java" />
+        <option value="$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/barcode/BarcodeTrackerFactory.java" />
+        <option value="$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/UpdateClient.java" />
+        <option value="$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/generateQRCodeImage.java" />
+        <option value="$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/glpanorama/src/main/java/com/zph/glpanorama/GLPanorama.java" />
+        <option value="$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/MainActivity.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FINAL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FINAL" type="462c0819:PsiDirectoryNode" />
+              <item name="QrReaderMerged2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FINAL" type="462c0819:PsiDirectoryNode" />
+              <item name="QrReaderMerged2" type="462c0819:PsiDirectoryNode" />
+              <item name="BarcodeReaderSample-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FINAL" type="462c0819:PsiDirectoryNode" />
+              <item name="QrReaderMerged2" type="462c0819:PsiDirectoryNode" />
+              <item name="BarcodeReaderSample-master" type="462c0819:PsiDirectoryNode" />
+              <item name="glpanorama" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FINAL" type="462c0819:PsiDirectoryNode" />
+              <item name="QrReaderMerged2" type="462c0819:PsiDirectoryNode" />
+              <item name="BarcodeReaderSample-master" type="462c0819:PsiDirectoryNode" />
+              <item name="glpanorama" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FINAL" type="462c0819:PsiDirectoryNode" />
+              <item name="QrReaderMerged2" type="462c0819:PsiDirectoryNode" />
+              <item name="BarcodeReaderSample-master" type="462c0819:PsiDirectoryNode" />
+              <item name="glpanorama" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FINAL" type="462c0819:PsiDirectoryNode" />
+              <item name="QrReaderMerged2" type="462c0819:PsiDirectoryNode" />
+              <item name="BarcodeReaderSample-master" type="462c0819:PsiDirectoryNode" />
+              <item name="GoldneyTourGuide" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FINAL" type="462c0819:PsiDirectoryNode" />
+              <item name="QrReaderMerged2" type="462c0819:PsiDirectoryNode" />
+              <item name="BarcodeReaderSample-master" type="462c0819:PsiDirectoryNode" />
+              <item name="GoldneyTourGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FINAL" type="462c0819:PsiDirectoryNode" />
+              <item name="QrReaderMerged2" type="462c0819:PsiDirectoryNode" />
+              <item name="BarcodeReaderSample-master" type="462c0819:PsiDirectoryNode" />
+              <item name="GoldneyTourGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FINAL" type="462c0819:PsiDirectoryNode" />
+              <item name="QrReaderMerged2" type="462c0819:PsiDirectoryNode" />
+              <item name="BarcodeReaderSample-master" type="462c0819:PsiDirectoryNode" />
+              <item name="GoldneyTourGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FINAL" type="462c0819:PsiDirectoryNode" />
+              <item name="QrReaderMerged2" type="462c0819:PsiDirectoryNode" />
+              <item name="BarcodeReaderSample-master" type="462c0819:PsiDirectoryNode" />
+              <item name="GoldneyTourGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FINAL" type="462c0819:PsiDirectoryNode" />
+              <item name="QrReaderMerged2" type="462c0819:PsiDirectoryNode" />
+              <item name="BarcodeReaderSample-master" type="462c0819:PsiDirectoryNode" />
+              <item name="GoldneyTourGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="goldney" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FINAL" type="462c0819:PsiDirectoryNode" />
+              <item name="QrReaderMerged2" type="462c0819:PsiDirectoryNode" />
+              <item name="BarcodeReaderSample-master" type="462c0819:PsiDirectoryNode" />
+              <item name="GoldneyTourGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="goldney" type="462c0819:PsiDirectoryNode" />
+              <item name="barcodereadersample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FINAL" type="462c0819:PsiDirectoryNode" />
+              <item name="QrReaderMerged2" type="462c0819:PsiDirectoryNode" />
+              <item name="BarcodeReaderSample-master" type="462c0819:PsiDirectoryNode" />
+              <item name="GoldneyTourGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="goldney" type="462c0819:PsiDirectoryNode" />
+              <item name="tourguide" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FINAL" type="462c0819:PsiDirectoryNode" />
+              <item name="QrReaderMerged2" type="462c0819:PsiDirectoryNode" />
+              <item name="BarcodeReaderSample-master" type="462c0819:PsiDirectoryNode" />
+              <item name="GoldneyTourGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="goldney" type="462c0819:PsiDirectoryNode" />
+              <item name="tourguide" type="462c0819:PsiDirectoryNode" />
+              <item name="barcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FINAL" type="462c0819:PsiDirectoryNode" />
+              <item name="QrReaderMerged2" type="462c0819:PsiDirectoryNode" />
+              <item name="BarcodeReaderSample-master" type="462c0819:PsiDirectoryNode" />
+              <item name="GoldneyTourGuide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="AndroidRunConfigurationType" factoryName="Android App" nameIsGenerated="true">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04fddd11-a6de-4d1b-969c-3253da9e58fe" name="Default Changelist" comment="" />
+      <created>1585004963910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585004963910</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.27625087" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Preview" order="3" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/varvet/tourguide/MyItemRecyclerViewAdapter.kt" />
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/varvet/tourguide/generateQRCodeImage.java" />
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/varvet/tourguide/DownloadTask.java" />
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/varvet/tourguide/DisplayTileActivity.java" />
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/varvet/tourguide/developerHome.kt" />
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/varvet/tourguide/CopyUtil.java" />
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/varvet/tourguide/camera/CameraSource.java" />
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/varvet/tourguide/camera/CameraSourcePreview.java" />
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/varvet/tourguide/barcode/BarcodeCaptureActivity.java" />
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/varvet/tourguide/downloadFileActivity.java" />
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/varvet/tourguide/UpdateClient.java" />
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/varvet/tourguide/p360Activity.java" />
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/varvet/tourguide/ItemFragment.kt" />
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/varvet/tourguide/loadScreen.kt" />
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/varvet/tourguide/HomeFragment.kt" />
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/varvet/tourguide/MainActivity.kt" />
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/res/layout/activity_display_tile.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/res/layout/fragment_test_home_page.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/ic_icongoldney-web.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/res/navigation/nav_graph_secondary.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/res/navigation/nav_graph.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/barcode/BarcodeTracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#1276#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/barcode/BarcodeTrackerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#1352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/barcode/BarcodeCaptureActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="143" column="29" selection-start-line="143" selection-start-column="8" selection-end-line="143" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#11721#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/TileFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/ConnectionDialogueFailed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/TileList.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/Settings.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/Section.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/p360Activity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/MyItemRecyclerViewAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/ItemFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/HomeFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/generateQRCodeImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/DownloadTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/DisplayTileActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/downloadFileActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/developerHome.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/CopyUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/glpanorama/src/main/java/com/zph/glpanorama/glutils/Ball.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="55" column="31" lean-forward="true" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/glpanorama/src/main/java/com/zph/glpanorama/glutils/OGLUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/glpanorama/src/main/java/com/zph/glpanorama/glutils/IViews.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/glpanorama/src/main/java/com/zph/glpanorama/GLPanorama.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="64" column="21" lean-forward="true" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/TourTile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1225">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/MainActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/UpdateClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QrReaderMerged2/BarcodeReaderSample-master/GoldneyTourGuide/src/main/java/com/goldney/tourguide/loadScreen.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

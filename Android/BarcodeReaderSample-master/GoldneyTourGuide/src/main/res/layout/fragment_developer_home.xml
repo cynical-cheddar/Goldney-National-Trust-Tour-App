@@ -1,0 +1,291 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.varvet.tourguide.developerHome">
+
+    <ImageView
+        android:id="@+id/img_background"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/rec_stickybackground"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/img_titleandcrest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/txt_goldneyhalltitle"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.029" />
+
+    <ImageView
+        android:id="@+id/img_settings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/img_settings"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.07"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.039" />
+
+    <ImageView
+        android:id="@+id/img_qrreaderimage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/img_qrsanner"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/img_background"
+        app:layout_constraintVertical_bias="0.012" />
+
+    <ImageView
+        android:id="@+id/btn_launchCam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/shp_whiterec"
+        app:layout_constraintBottom_toTopOf="@+id/btn_exampleTile"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/img_background"
+        app:layout_constraintVertical_bias="0.523" />
+
+    <ImageView
+        android:id="@+id/img_tealStrip1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/shp_tealrec"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_launchCam"
+        app:layout_constraintEnd_toEndOf="@+id/btn_launchCam"
+        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintStart_toStartOf="@+id/btn_launchCam"
+        app:layout_constraintTop_toTopOf="@+id/btn_launchCam"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/txt_lauchQRReader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="19dp"
+        android:fontFamily="@font/avenir_book"
+        android:text="Launch QR Reader"
+        android:textColor="#000000"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_launchCam"
+        app:layout_constraintEnd_toEndOf="@+id/btn_launchCam"
+        app:layout_constraintHorizontal_bias="0.145"
+        app:layout_constraintStart_toStartOf="@+id/btn_launchCam"
+        app:layout_constraintTop_toBottomOf="@+id/img_tealStrip1"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/img_forwardArrow1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="31dp"
+        android:layout_marginBottom="27dp"
+        android:src="@drawable/img_forwardarrow"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_launchCam"
+        app:layout_constraintEnd_toEndOf="@+id/btn_launchCam"
+        app:layout_constraintHorizontal_bias="0.965"
+        app:layout_constraintStart_toStartOf="@+id/btn_launchCam"
+        app:layout_constraintTop_toTopOf="@+id/btn_launchCam"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/txt_launchQRReaderDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/avenir_roman"
+        android:text="Scan barcodes to launch tiles"
+        android:textColor="#017474"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_launchCam"
+        app:layout_constraintEnd_toEndOf="@+id/btn_launchCam"
+        app:layout_constraintHorizontal_bias="0.229"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/btn_launchCam"
+        app:layout_constraintVertical_bias="0.813" />
+
+    <ImageView
+        android:id="@+id/img_mansionIllistration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/img_mansionillistration"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/img_qrreaderimage"
+        app:layout_constraintVertical_bias="0.100000024" />
+
+    <ImageView
+        android:id="@+id/btn_exampleTile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/shp_whiterec"
+        app:layout_constraintBottom_toBottomOf="@+id/img_list"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.508"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/img_mansionIllistration"
+        app:layout_constraintVertical_bias="0.319" />
+
+    <ImageView
+        android:id="@+id/img_tealStrip2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/shp_tealrec"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_exampleTile"
+        app:layout_constraintEnd_toEndOf="@+id/btn_exampleTile"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/btn_exampleTile"
+        app:layout_constraintTop_toTopOf="@+id/btn_exampleTile"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/img_list"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/img_list"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.523"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/img_mansionIllistration"
+        app:layout_constraintVertical_bias="0.192" />
+
+    <ImageView
+        android:id="@+id/btn_tourList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="86dp"
+        android:src="@drawable/shp_whiterec"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_exampleTile"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/img_tealStrip3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/shp_tealrec"
+        app:layout_constraintBottom_toBottomOf="@+id/img_list"
+        app:layout_constraintEnd_toEndOf="@+id/btn_tourList"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/btn_tourList"
+        app:layout_constraintTop_toTopOf="@+id/btn_tourList"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/img_forwardArrow2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/img_forwardarrow"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_exampleTile"
+        app:layout_constraintEnd_toEndOf="@+id/btn_exampleTile"
+        app:layout_constraintHorizontal_bias="0.959"
+        app:layout_constraintStart_toStartOf="@+id/btn_exampleTile"
+        app:layout_constraintTop_toTopOf="@+id/btn_exampleTile"
+        app:layout_constraintVertical_bias="0.689" />
+
+    <ImageView
+        android:id="@+id/img_forwardArrow3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/img_forwardarrow"
+        app:layout_constraintBottom_toBottomOf="@+id/img_list"
+        app:layout_constraintEnd_toEndOf="@+id/btn_tourList"
+        app:layout_constraintHorizontal_bias="0.965"
+        app:layout_constraintStart_toStartOf="@+id/btn_tourList"
+        app:layout_constraintTop_toTopOf="@+id/btn_tourList"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/txt_exampleTile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/avenir_book"
+        android:text="Example Tile"
+        android:textColor="#000000"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="@+id/img_mansionIllistration"
+        app:layout_constraintEnd_toEndOf="@+id/btn_exampleTile"
+        app:layout_constraintHorizontal_bias="0.071"
+        app:layout_constraintStart_toStartOf="@+id/btn_exampleTile"
+        app:layout_constraintTop_toTopOf="@+id/btn_exampleTile"
+        app:layout_constraintVertical_bias="0.481" />
+
+    <TextView
+        android:id="@+id/txt_tourLists"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/avenir_book"
+        android:text="Tour List"
+        android:textColor="#000000"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_tourList"
+        app:layout_constraintEnd_toEndOf="@+id/btn_tourList"
+        app:layout_constraintHorizontal_bias="0.075"
+        app:layout_constraintStart_toStartOf="@+id/btn_tourList"
+        app:layout_constraintTop_toTopOf="@+id/btn_tourList"
+        app:layout_constraintVertical_bias="0.475" />
+
+    <TextView
+        android:id="@+id/txt_exampleTileDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/avenir_roman"
+        android:text="Displays an example tile"
+        android:textColor="#017474"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_exampleTile"
+        app:layout_constraintEnd_toEndOf="@+id/btn_exampleTile"
+        app:layout_constraintHorizontal_bias="0.08"
+        app:layout_constraintStart_toStartOf="@+id/btn_exampleTile"
+        app:layout_constraintTop_toTopOf="@+id/btn_exampleTile"
+        app:layout_constraintVertical_bias="0.86" />
+
+    <TextView
+        android:id="@+id/txt_tourListDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/avenir_roman"
+        android:text="Display list of potential tours"
+        android:textColor="#017474"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_tourList"
+        app:layout_constraintEnd_toEndOf="@+id/btn_tourList"
+        app:layout_constraintHorizontal_bias="0.104"
+        app:layout_constraintStart_toStartOf="@+id/btn_tourList"
+        app:layout_constraintTop_toTopOf="@+id/btn_tourList"
+        app:layout_constraintVertical_bias="0.82" />
+
+    <TextView
+        android:id="@+id/a360"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="360"
+        android:textColor="#017474"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_tourList"
+        app:layout_constraintEnd_toEndOf="@+id/btn_tourList"
+        app:layout_constraintHorizontal_bias="0.972"
+        app:layout_constraintStart_toStartOf="@+id/btn_tourList"
+        app:layout_constraintTop_toTopOf="@+id/btn_tourList"
+        app:layout_constraintVertical_bias="1.0" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
